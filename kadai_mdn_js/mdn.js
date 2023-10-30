@@ -3,4 +3,4 @@ var year = newdate.getFullYear();
 var month = newdate.getMonth()+1;
 var day = newdate.getDate();
 
-console.log(year+"年"+month+"月"+day+"日");
+console.log(year+'年'+month+'月'+day+'日');
